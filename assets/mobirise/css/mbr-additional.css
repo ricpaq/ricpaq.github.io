@@ -1717,8 +1717,22 @@ body {
     text-align: center;
   }
 }
+.cid-r7NW5QxP6B .mbr-text,
+.cid-r7NW5QxP6B .mbr-section-btn {
+  color: #f9f295;
+}
+.cid-r7NW5QxP6B H1 {
+  color: #f9f295;
+}
 .cid-reXyWjc0eQ {
   background-image: url("../../../assets/images/piano-guitare-800x600.jpg");
+}
+.cid-reXyWjc0eQ .mbr-text,
+.cid-reXyWjc0eQ .mbr-section-btn {
+  color: #f9f295;
+}
+.cid-reXyWjc0eQ H1 {
+  color: #f9f295;
 }
 .cid-reXW6HScmB {
   padding-top: 135px;
@@ -1780,15 +1794,18 @@ body {
   }
 }
 .cid-reXW6HScmB H2 {
-  color: #ffffff;
+  color: #f9f295;
 }
 .cid-reXW6HScmB H4 {
-  color: #ffffff;
+  color: #f9f295;
   text-align: left;
 }
 .cid-reXW6HScmB .panel-text {
-  color: #ffffff;
+  color: #f9f295;
   text-align: left;
+}
+.cid-reXW6HScmB .panel-text I {
+  color: #ffffff;
 }
 .cid-rf0jZxjX8N {
   padding-top: 90px;
@@ -1796,7 +1813,7 @@ body {
   background-image: url("../../../assets/images/capture-decran-2019-01-12-a-11.43.46-1348x696.png");
 }
 .cid-rf0jZxjX8N .mbr-section-subtitle {
-  color: #ffffff;
+  color: #f9f295;
 }
 .cid-rf0jZxjX8N .container-table {
   margin: 0 auto;
@@ -1833,7 +1850,7 @@ body {
   border-top: 1px solid #82786e;
 }
 .cid-rf0jZxjX8N table.table {
-  background: #cebfaf;
+  background: #6e5713;
 }
 .cid-rf0jZxjX8N .dataTables_filter {
   text-align: right;
@@ -1871,9 +1888,13 @@ body {
 }
 .cid-rf0jZxjX8N .head-item {
   text-align: left;
+  color: #f9f295;
 }
 .cid-rf0jZxjX8N .mbr-section-title {
-  color: #ffffff;
+  color: #f9f295;
+}
+.cid-rf0jZxjX8N .body-item {
+  color: #f9f295;
 }
 .cid-rf0szMGoWy {
   padding-top: 0px;
@@ -1882,7 +1903,7 @@ body {
 }
 .cid-rf0szMGoWy .testimonial-text {
   font-style: italic;
-  color: #ffffff;
+  color: #f9f295;
   font-weight: 300;
 }
 .cid-rf0szMGoWy .mbr-author-name {
@@ -1890,5 +1911,8 @@ body {
   color: #ffffff;
 }
 .cid-rf0szMGoWy .mbr-author-desc {
-  color: #ffffff;
+  color: #f9f295;
+}
+.cid-rf0szMGoWy .mbr-author-name SPAN {
+  color: #f9f295;
 }
